@@ -1,0 +1,1 @@
+SELECT * FROM university_database.admit_card;

@@ -1,0 +1,1 @@
+SELECT * FROM university_database.marks_statement;
